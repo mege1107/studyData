@@ -1,0 +1,1 @@
+{'name': 'study-data-api', 'version': '1.0.0', 'description': '学习数据同步 API - 将学习记录同步到飞书多维表格', 'dependencies': {'@vercel/node': '^3.0.0'}}
